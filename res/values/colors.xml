@@ -10,4 +10,6 @@
 
     <color name="inverted">#212121</color>
     <color name="ic_background">#333333</color>
+
+    <color name="ic_launcher_background">#ff8378</color>
 </resources>
